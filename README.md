@@ -1,24 +1,82 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## Sobre mim
+###
 
-Engenheiro da Computação, Administrador e Professor de: Física, Matemática e Tecnologia, apaixonado por tecnologia e robótica, buscando novos desafios no mundo do desenvolvimento web. 
+<p align="left">Hi, my name is Fábio. I'm a Computer Engineer, Administrator, Physics, Math, Technology and Robotics Teacher, and a desktop and web developer.</p>
 
-Atualmente, leciono na rede estadual e privada e tenho me dedicado a criar aulas inovadoras de tecnologia e robótica, com auxilio das TICs, Arduino e plataformas de ensino, explorando o desenvolvimento web com HTML, CSS e Javascript.  
+###
 
-Acredito que "velhas rotas não traçam novos caminhos" e, por isso, estou sempre em busca de aprendizado e aprimoramento.  Meu objetivo é conseguir meu primeiro emprego na área de desenvolvimento web e me consolidar como desenvolvedor de software.
+<h2 align="left">About me</h2>
 
-**Quando não estou programando ou lecionando, você pode me encontrar:**
+###
 
-* Mergulhado em um bom jogo 🎮
-* Ouvindo música 🎧
-* No campo de airsoft 🎯
-* Criando projetos com Arduino 🤖
-* Curtindo momentos especiais com minha família (casado e pai de dois filhos!) 👨‍👩‍👧‍👦
+<p align="left">✨ Creating bugs since 2010 😄</p>
 
-**Vamos nos conectar!**
+###
 
-* [LinkedIn](https://www.linkedin.com/in/fabionicola/)
-* WhatsApp: +55 16 997817390
-* Instagram: @fabaonicolas
-* [Facebook](https://www.facebook.com/fabioaugusto.nicola/)
+<p align="left">📚 Currently developing my skills in: HTML, CSS and JavaScript, with a focus on web development.</p>
+
+###
+
+<p align="left">🎯 Goals: To land my first job as a web developer and build a solid and fulfilling career in the field.</p>
+
+###
+
+<p align="left">🎲 Fun fact: When I'm not coding or teaching, you can find me immersed in a good game 🎮, listening to music 🎧, on the airsoft field 🎯, or enjoying quality time with my wife and kids 👨‍👩‍👧‍👦.</p>
+
+###
+
+<p align="left">🧭 I believe that "old ways don't open new doors", so I'm always seeking learning and improvement.</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabionicola&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabionicola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/fabionicola/fabionicola/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fabionicola/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5516997817390" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/fabaonicolas/profilecard/?igsh=MTN4YWZrejNtMzBqOA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
