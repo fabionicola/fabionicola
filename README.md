@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Fábio. I'm a Computer Engineer, Administrator, Physics, Math, Technology and Robotics Teacher, and a desktop and web developer.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2010 😄</p>
+<p align="left">Hi, my name is Fábio!!!</p>
 
 ###
 
@@ -18,21 +10,10 @@
 
 ###
 
-<p align="left">🎯 Goals: To land my first job as a web developer and build a solid and fulfilling career in the field.</p>
-
-###
-
-<p align="left">🎲 Fun fact: When I'm not coding or teaching, you can find me immersed in a good game 🎮, listening to music 🎧, on the airsoft field 🎯, or enjoying quality time with my wife and kids 👨‍👩‍👧‍👦.</p>
-
-###
-
 <p align="left">🧭 I believe that "old ways don't open new doors", so I'm always seeking learning and improvement.</p>
 
 ###
 
-<h2 align="left">Techs</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
